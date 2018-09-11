@@ -8,7 +8,15 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
+  "findDetails": {
+    "name": "typicode",
+    "tel": "0112233445",
+    "no": "214",
+    "street": "Main Street",
+    "post": "Colombo",
+    "postalCode": "023",
+    "moh": "Nugegoda",
+    "ward": "Nugegoda west",
+    "gender": "male"
   }
 }
