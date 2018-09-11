@@ -1,4 +1,4 @@
-[{"name": "typicode",
+{"address":{"name": "typicode",
     "tel": "0112233445",
     "no": "214",
     "street": "Main Street",
@@ -6,4 +6,4 @@
     "postalCode": "023",
     "moh": "Nugegoda",
     "ward": "Nugegoda west",
-    "gender": "male"}]
+    "gender": "male"}}
