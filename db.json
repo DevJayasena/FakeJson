@@ -8,4 +8,7 @@
     "ward": "Nugegoda west",
     "gender": "male"},
 "signup":{"isValidY": "valid",
-         "isValidN": "NotValid"}}
+         "isValidN": "NotValid"},
+"login":{"loginStates": "valid", //valid, notValid, rejected, blocked
+        "isPending": "NO",
+        "isFilledProfile": "YES"} }
