@@ -6,4 +6,6 @@
     "postalCode": "023",
     "moh": "Nugegoda",
     "ward": "Nugegoda west",
-    "gender": "male"}}
+    "gender": "male"},
+"signup":{"isValidY": "valid",
+         "isValidN": "NotValid"}}
