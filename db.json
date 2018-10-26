@@ -9,6 +9,6 @@
     "gender": "male"},
 "signup":{"isValidY": "valid",
          "isValidN": "NotValid"},
-"login":{"loginStates": "valid", //valid, notValid, rejected, blocked
+"login":{"loginStates": "valid", 
         "isPending": "NO",
         "isFilledProfile": "YES"} }
